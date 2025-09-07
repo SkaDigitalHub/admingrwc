@@ -1,0 +1,2 @@
+# admingrwc
+Church Management  Software
